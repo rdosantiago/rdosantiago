@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rdosantiago&layout=compact&langs_count=8&theme=radical)
 <!--
 **rdosantiago/rdosantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
