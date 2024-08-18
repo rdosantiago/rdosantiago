@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rdosantiago&layout=compact&langs_count=8&theme=radical)
+- 🔭 I’m currently learning Python to automate my work and boost productivity 🚀
+  
+- 🌱 Even though I'm learning Python, I like checking out exotic programming languages like ADA, COBOL, WebAssembly and Rust 😉😎
+  
+- 😄 Fun fact: My boss thinks my work is hard and time-consuming, but I'm actually a rocket with automation!😎😁
 <!--
 **rdosantiago/rdosantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
